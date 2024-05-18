@@ -118,7 +118,6 @@ Conhecendo = {
 Cores = {"Yellow": {"alternativas": ["Azul", "Rosa", "Amarelo", "Verde", "Preto"],
                     "resposta_correta": "Amarelo", "enuciado": "Escolha a tradução correta"
                     },
-         "Verde"
         "Blue": {"alternativas": ["Verde", "Azul", "Branco", "Cinza", "Rosa"],
                   "resposta_correta": "Azul", "enuciado": "Escolha a tradução correta"
                   },
